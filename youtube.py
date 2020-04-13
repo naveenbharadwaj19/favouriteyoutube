@@ -34,5 +34,5 @@ try:
         look_new_video()
         sleep(8)
 except KeyboardInterrupt:
-    print("Stopping")
+    print("Searching Stopped")
         
