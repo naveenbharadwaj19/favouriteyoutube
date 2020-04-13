@@ -1,0 +1,4 @@
+selenium==3.141.0
+youtube-data-api==0.0.17
+pandas==1.0.3
+
